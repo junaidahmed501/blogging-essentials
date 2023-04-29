@@ -1,2 +1,3 @@
 # blogging-essentials
-Publically accessible items of all kinds
+Publicly accessible items of all kinds
+
